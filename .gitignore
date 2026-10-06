@@ -1,0 +1,14 @@
+# 运行时数据：内含用户密码哈希与账目，绝不入库
+data/
+*.tmp
+
+# 日志与调试产物
+*.log
+server.log
+
+# 编辑器 / 操作系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
